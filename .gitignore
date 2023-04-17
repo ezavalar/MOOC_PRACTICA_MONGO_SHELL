@@ -1,0 +1,11 @@
+
+user.json
+node_modules/
+data/
+.env
+*.log
+*.sqlite
+*.pem
+.vscode
+.idea
+miscapturas/

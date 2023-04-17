@@ -1,0 +1,29 @@
+{
+    "name": "MOOC_PRACTICA_MONGO_SHELL",
+    "version": "0.0.1",
+    "description": "autoCOREctor de la asignatura de BBDD (UPM)",
+    "debug": false,
+    "capturesFolder": "miscapturas",
+    "capturesNumber": 3,   
+    "keywords": [
+        "BBDD",
+        "self-assessment"
+    ],
+    "author": "ging",
+    "license": "GNU",
+    "info": {
+        "githubURL": "BBDD-ETSIT/MOOC_PRACTICA_MONGO_SHELL",
+        "serverUrl": "https://moocbot.dit.upm.es/",
+        "courseId": "1312",
+        "assignmentId": "810"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ging/autoCOREctor",
+        "directory": "client"
+    },
+    "dependencies": {
+        "autocorector": "^3.1.6",
+        "mongoose": "^6.0.13"
+    }
+}
