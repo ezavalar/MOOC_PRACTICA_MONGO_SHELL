@@ -14,12 +14,12 @@ Provista en PDF en el Moodle de la asignatura.
 El proyecto debe clonarse en el ordenador desde el que se está trabajando:
 
 ```
-$ git clone https://github.com/BBDD-ETSIT/nosql_practica2_bbdd
+$ git clone https://github.com/BBDD-ETSIT/MOOC_PRACTICA_MONGO_SHELL
 ```
 A continuación se debe acceder al directorio de trabajo y abrir el fichero index.html con el editor de la elección del alumno.
 
 ```
-$ cd nosql_practica2_bbdd
+$ cd OOC_PRACTICA_MONGO_SHELL
 $ npm install
 ```
 ## Prueba de la práctica 
